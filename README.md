@@ -2,8 +2,8 @@
 
 ## Creator
 
-This project was created, written, and maintained by **Anish Kumar (ANISH KUMAR)**.
-All primary documentation in this README is presented as the work of **Anish Kumar**.
+This project was created, written, and maintained by **ANISH KUMAR**.
+All primary documentation in this README is presented as the work of **ANISH KUMAR**.
 
 LedgerFlow Java is a Java 8 reconciliation service for finance and operations teams. It ingests transaction records, detects mismatches, computes summaries, exposes merchant and audit views, and runs as a lightweight HTTP API using only the JDK.
 
